@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails',        '5.1.4'
+gem 'faker',        '1.7.3'
+gem 'will_paginate',           '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
 gem 'bcrypt',       '3.1.11'
 gem 'bootstrap-sass', '3.3.7'
 gem 'puma',         '3.9.1'
@@ -28,6 +31,8 @@ group :test do
   gem 'minitest-reporters',       '1.1.14'
   gem 'guard',                    '2.13.0'
   gem 'guard-minitest',           '2.4.4'
+  gem 'will_paginate',           '3.1.6'
+  gem 'bootstrap-will_paginate', '1.0.0'
 end
 
 group :production do
