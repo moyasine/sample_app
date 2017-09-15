@@ -6,13 +6,7 @@
     </enabled-run-configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f4510de-774a-4184-83cd-a0c27b5cbe41" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-    </list>
+    <list default="true" id="8f4510de-774a-4184-83cd-a0c27b5cbe41" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +16,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/sample_app@Development__sample_app.coverage" NAME="Development: sample_app Coverage Results" MODIFIED="1505196086184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="sample_app" />
-    <SUITE FILE_PATH="coverage/sample_app@test__sample_app.coverage" NAME="test: sample_app Coverage Results" MODIFIED="1505453223015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="sample_app" />
+    <SUITE FILE_PATH="coverage/sample_app@test__sample_app.coverage" NAME="test: sample_app Coverage Results" MODIFIED="1505453529370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="sample_app" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -62,8 +56,8 @@
           <file leaf-file-name="_micropost.html.erb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/views/microposts/_micropost.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="110">
-                  <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+                <state relative-caret-position="330">
+                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -148,18 +142,8 @@
           <file leaf-file-name="micropost.rb" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="154">
-                  <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="20170915004258_create_microposts.rb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/db/migrate/20170915004258_create_microposts.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="176">
-                  <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+                <state relative-caret-position="330">
+                  <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -198,8 +182,8 @@
           <file leaf-file-name="_micropost_form.html.erb" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="220">
-                  <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <state relative-caret-position="418">
+                  <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -225,11 +209,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="microposts_interface_test.rb" pinned="false" current-in-tab="true">
+          <file leaf-file-name="microposts_interface_test.rb" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/test/integration/microposts_interface_test.rb">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="315">
                   <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="picture_uploader.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/uploaders/picture_uploader.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="44">
+                  <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
@@ -274,7 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/views/users/_user.html.erb" />
         <option value="$PROJECT_DIR$/test/controllers/users_controller_test.rb" />
         <option value="$PROJECT_DIR$/test/integration/users_index_test.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20170914063133_add_activation_to_users.rb" />
@@ -320,11 +313,12 @@
         <option value="$PROJECT_DIR$/test/fixtures/microposts.yml" />
         <option value="$PROJECT_DIR$/test/controllers/microposts_controller_test.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/models/micropost.rb" />
-        <option value="$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/microposts_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/microposts/_micropost.html.erb" />
         <option value="$PROJECT_DIR$/test/integration/microposts_interface_test.rb" />
+        <option value="$PROJECT_DIR$/app/models/micropost.rb" />
+        <option value="$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb" />
+        <option value="$PROJECT_DIR$/app/uploaders/picture_uploader.rb" />
       </list>
     </option>
   </component>
@@ -426,6 +420,12 @@
               <item name="app" type="cbb8eebc:String" user="app" />
               <item name="models" type="cbb8eebc:String" user="models" />
               <item name="concerns" type="cbb8eebc:String" user="concerns" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="sample_app" type="cbb8eebc:String" user="sample_app" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="uploaders" type="cbb8eebc:String" user="uploaders" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -732,29 +732,11 @@
       <workItem from="1505368048974" duration="393000" />
       <workItem from="1505370393826" duration="10430000" />
       <workItem from="1505435189172" duration="10664000" />
-      <workItem from="1505450423086" duration="2802000" />
+      <workItem from="1505450423086" duration="3164000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="test__sample_app - 2017.09.15 at 14h 23m 18s.xml">
-      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test__sample_app - 2017.09.15 at 14h 23m 39s.xml">
-      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test__sample_app - 2017.09.15 at 14h 23m 45s.xml">
-      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test__sample_app - 2017.09.15 at 14h 23m 56s.xml">
-      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test__sample_app - 2017.09.15 at 14h 24m 17s.xml">
-      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
-    </history-entry>
-    <history-entry file="test__sample_app - 2017.09.15 at 14h 24m 28s.xml">
-      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
-    </history-entry>
     <history-entry file="test__sample_app - 2017.09.15 at 14h 24m 48s.xml">
       <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
     </history-entry>
@@ -767,9 +749,27 @@
     <history-entry file="test__sample_app - 2017.09.15 at 14h 27m 05s.xml">
       <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
     </history-entry>
+    <history-entry file="test__sample_app - 2017.09.15 at 14h 28m 16s.xml">
+      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test__sample_app - 2017.09.15 at 14h 28m 44s.xml">
+      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test__sample_app - 2017.09.15 at 14h 28m 53s.xml">
+      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test__sample_app - 2017.09.15 at 14h 29m 47s.xml">
+      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test__sample_app - 2017.09.15 at 14h 30m 03s.xml">
+      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
+    </history-entry>
+    <history-entry file="test__sample_app - 2017.09.15 at 14h 32m 12s.xml">
+      <configuration name="test: sample_app" configurationId="RakeRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93574000" />
+    <option name="totallyTimeSpent" value="93936000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -835,13 +835,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/mailers/user_mailer.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/user_mailer/password_reset.text.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1167,22 +1160,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1201,14 +1178,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/microposts/_micropost.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/models/micropost_test.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -1221,6 +1190,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/shared/_micropost_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/uploaders/picture_uploader.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/microposts/_micropost.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
