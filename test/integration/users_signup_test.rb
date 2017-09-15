@@ -32,7 +32,7 @@ class UsersSignupTest < ActionDispatch::IntegrationTest
                                        password_confirmation: "password"}}
     end
     # 演習 11.3.1 確認
-    #assert_equal 1,  ActionMailer::Base.deliveries.size
+    assert_equal 1,ActionMailer::Base.deliveries.size
     user = assigns(:user)
     assert_not user.activated?
     # 有効化していない状態でログインしてみる
